@@ -1,2 +1,0 @@
-# hackprix
-hackathon
